@@ -1,0 +1,22 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.hero {
+    background-size: cover;
+    background-position: center;
+}
+
+header a {
+    transition: color 0.3s ease;
+}
+
+header a:hover {
+    color: #ddd;
+}
+
+footer p {
+    margin: 0;
+}
+
+/* Add more custom styles as needed */
